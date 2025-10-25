@@ -82,4 +82,4 @@ console.log(first.concat('_', second));
 console.log('hello'.concat(' ', 'my', ' ', 'world'));
 
 // repeat method
-console.log('hello'.repeat(3));
+// console.log('hello'.repeat(3));
